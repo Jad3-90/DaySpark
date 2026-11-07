@@ -384,7 +384,7 @@ import 'dart:math';
   'STOP SCROLLING, START DOING!',
   textAlign: TextAlign.center,
   style: TextStyle(
-  fontSize: 22,
+  fontSize: 36,
   fontWeight: FontWeight.bold,
   ),
   ),
